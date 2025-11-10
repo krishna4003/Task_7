@@ -1,0 +1,2 @@
+Python is powerful. Python is easy to learn.
+This file has more content to test the analyzer.

@@ -1,0 +1,2 @@
+Hello world. This is my first text file.
+It contains a few words and short sentences.
